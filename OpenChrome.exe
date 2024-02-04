@@ -1,0 +1,6 @@
+@echo
+cls
+echo New app to open up chrome without touching it.
+pause
+Start Chrome.exe
+Stop
